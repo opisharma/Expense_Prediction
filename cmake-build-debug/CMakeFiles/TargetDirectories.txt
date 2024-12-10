@@ -1,0 +1,3 @@
+/home/opi/Bank/gradient/cmake-build-debug/CMakeFiles/gradient.dir
+/home/opi/Bank/gradient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/opi/Bank/gradient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
